@@ -2,7 +2,7 @@
 
 ![https://github.com/napi-rs/cli-goodbye/actions](https://github.com/napi-rs/cli-goodbye/workflows/CI/badge.svg)
 
-> Template project for writing node package with napi-rs.
+> Starter for Native Modules.
 
 ## Install this test package
 

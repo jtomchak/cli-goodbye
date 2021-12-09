@@ -1,9 +1,9 @@
 {
   "name": "@jtomchak/cli-goodbye",
   "version": "1.0.1",
-  "description": "Template project for writing node package with napi-rs",
+  "description": "Starter for Native Modules",
   "main": "index.js",
-  "repository": "git@github.com:napi-rs/cli-goodbye.git",
+  "repository": "git@github.com:jtomchak/cli-goodbye.git",
   "license": "MIT",
   "keywords": [
     "napi-rs",

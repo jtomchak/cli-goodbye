@@ -11,7 +11,7 @@
   "files": [
     "cli-goodbye.darwin-x64.node"
   ],
-  "description": "Template project for writing node package with napi-rs",
+  "description": "Starter for Native Modules",
   "keywords": [
     "napi-rs",
     "NAPI",
